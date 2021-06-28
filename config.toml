@@ -1,4 +1,4 @@
-baseURL = "https://www.mufudo.com/"
+baseURL = "http://www.mufudo.com/"
 languageCode = "en-us"
 title = "無風洞"
 theme = "hugo-scroll"
