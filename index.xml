@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>無風洞</title>
-    <link>https://mufudo.github.io/website/</link>
+    <link>https://www.mufudo.com/</link>
     <description>Recent content on 無風洞</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mufudo.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.mufudo.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
