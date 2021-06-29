@@ -5,7 +5,7 @@ theme = "hugo-scroll"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© 財団法人 京都美術振興会"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Nutrition Coach & Chef Consultant"
@@ -26,7 +26,7 @@ theme = "hugo-scroll"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    # hidedesignbyline = true
+    hidedesignbyline = true
 
     [params.meta]
         keywords = "無風堂, 京都, 藤井厚二, 枯山水"
