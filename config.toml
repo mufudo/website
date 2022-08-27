@@ -8,7 +8,7 @@ theme = "hugo-scroll"
     copyright = "© 無風洞"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "藤井厚二によって建てられた上京区にある洋風建築である無風洞のウェブサイトです"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # favicon = "images/favicon.png"
@@ -29,4 +29,4 @@ theme = "hugo-scroll"
     hidedesignbyline = true
 
     [params.meta]
-        keywords = "無風堂, 京都, 藤井厚二, 枯山水"
+        keywords = "無風洞, 京都, 藤井厚二, 是空苑, 長谷川菊洲, 嵯峨御流華道芸術学院"
