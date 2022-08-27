@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "お問い合わせ"
 weight: 4
 header_menu: true
 ---
