@@ -1,7 +1,7 @@
 ---
 title: "是空苑"
 ---
-![是空苑の版画1](/images/zekuen_hanga02.jpg)
+![是空苑の版画2](/images/zekuen_hanga02.jpg)
 
 ## 石の配置に華道の心
 
