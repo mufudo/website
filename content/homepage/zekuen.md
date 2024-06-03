@@ -1,7 +1,7 @@
 ---
 title: "是空苑"
 weight: 2
-header_menu: true
+header_menu: false
 ---
 
 無風洞の石庭「是空苑」は旧嵯峨御所華道芸術学院長 長谷川菊洲師の創造になる私庭です。
